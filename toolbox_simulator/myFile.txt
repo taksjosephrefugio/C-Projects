@@ -1,0 +1,11 @@
+KIT My Kit
+Hex head bolt 3/8"-16 2" long 
+15 1.15 
+Nut 3/8"-16 
+15 .25
+Resistor 10K 1/2 watt 
+100 .20 
+Resistor 2.2K 1 watt 
+200 .24 
+Capacitor 10uF electrolytic 
+50 .75
